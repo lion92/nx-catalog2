@@ -3,6 +3,11 @@
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
   <component name="WebPackConfiguration">
     <option name="mode" value="DISABLED" />
   </component>
